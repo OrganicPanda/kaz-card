@@ -15,7 +15,10 @@
    version="1.1"
    id="svg2"
    height="1052.3622047"
-   width="744.09448819">
+   width="744.09448819"
+   inkscape:export-filename="/home/steve/Desktop/kaz-card/card-600dpi-background.png"
+   inkscape:export-xdpi="600.04474"
+   inkscape:export-ydpi="600.04474">
   <sodipodi:namedview
      id="base"
      pagecolor="#e3bd87"
@@ -24,8 +27,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="263.90618"
-     inkscape:cy="506.90856"
+     inkscape:cx="140.86093"
+     inkscape:cy="454.53281"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
